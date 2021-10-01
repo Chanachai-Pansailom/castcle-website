@@ -23,5 +23,5 @@
 
 export const environment = {
   production: false,
-  title: 'Castcle Local',
+  title: 'Castcle Local'
 };

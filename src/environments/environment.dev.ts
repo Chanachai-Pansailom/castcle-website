@@ -23,5 +23,5 @@
 
 export const environment = {
   production: true,
-  title: 'Castcle Development',
+  title: 'Castcle Development'
 };
